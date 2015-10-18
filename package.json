@@ -75,10 +75,14 @@
   "dependencies": {
     "debug": "^2.2.0",
     "electron-debug": "^0.2.1",
+    "firebase": "^2.2.7",
     "flux": "^2.1.1",
+    "invariant": "^2.1.0",
+    "jquery": "^2.1.4",
     "keymirror": "^0.1.1",
     "object-assign": "^4.0.1",
     "react": "^0.13.3",
-    "react-router": "^0.13.3"
+    "react-router": "^0.13.3",
+    "sort-by": "^1.1.0"
   }
 }
