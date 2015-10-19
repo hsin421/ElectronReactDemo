@@ -62,8 +62,6 @@
     "mocha": "^2.3.0",
     "node-libs-browser": ">= 0.4.0 <=0.6.0",
     "proxyquire": "^1.7.1",
-    "react-transform-catch-errors": "^1.0.0",
-    "react-transform-hmr": "^1.0.1",
     "redbox-react": "^1.1.1",
     "sinon": "^1.16.1",
     "style-loader": "^0.12.3",
