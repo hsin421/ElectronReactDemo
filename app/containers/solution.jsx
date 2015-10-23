@@ -4,7 +4,7 @@ import $ from 'jquery';
 import PinnedToBottom from './PinnedToBottom';
 
 var sortBy = require('sort-by');
-var { sendMessage, subscribeToChannels, subscribeToMessages } = require('../utils/ChatUtils');
+var { sendMessage, subscribeToMessages } = require('../utils/ChatUtils');
 
 require('./style.css');
 

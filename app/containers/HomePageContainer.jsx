@@ -1,18 +1,26 @@
 import React from 'react';
 import { Link } from 'react-router';
-import $ from 'jquery';
+// import $ from 'jquery';
+// import PinnedToBottom from './PinnedToBottom';
+
+// var sortBy = require('sort-by');
+// var { sendMessage, subscribeToMessages } = require('../utils/ChatUtils');
+
 
 export default class HomePageContainer extends React.Component {
   render(){
     return (
       <div>
-        <h2>Hello World !!</h2>
+        <h2>Hello World</h2>
         <p> Thanks for coming </p>
-        <Link to="about">to About</Link>
       </div>
       )
   }
 }
+
+
+
+// ===== React Examples Demo =====
 
 // class HomePageContainer extends React.Component {
 //   constructor(props){
