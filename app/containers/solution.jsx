@@ -84,7 +84,7 @@ class Chat extends React.Component {
     if (auth == null)
       return (
         <div>
-          <p>Please Logg In...</p> 
+          <p>Please Log In...</p> 
           <label>Enter Github User Name</label>
           <input onChange={this.handleInput} />
           <button onClick={this.handleGo}>Go</button>

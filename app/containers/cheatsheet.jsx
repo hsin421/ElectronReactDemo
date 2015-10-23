@@ -1,5 +1,8 @@
 // cheatsheet
 
+// sendMessage('room', 'username', avatar_url, message)
+// subscribeToMessages('room', callback);
+
 // MessageListItem (props: authoredByViwer, message)
 
 // return (
