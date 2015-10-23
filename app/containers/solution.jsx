@@ -422,3 +422,17 @@ export default Chat;
 
 // export default Chat;
 
+// For Production Babel Config
+
+// {
+//   "stage": 0,
+//   "env": {
+//     "development": {
+//       "plugins": [],
+//       "extra": {
+      
+//       }
+//     }
+//   }
+// }
+
